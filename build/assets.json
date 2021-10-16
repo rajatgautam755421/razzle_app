@@ -1,29 +1,7 @@
 {
-  "client": {
-    "css": [
-      "/static/css/client.7e611904.css"
-    ],
-    "js": [
-      "/static/js/client.a17abc62.js"
-    ],
-    "map": [
-      "/static/css/client.7e611904.css.map",
-      "/static/js/client.a17abc62.js.map"
-    ],
-    "chunks": [
-      0
-    ]
-  },
   "noentry": {
-    "ico": [
-      "/favicon.ico"
-    ],
-    "txt": [
-      "/robots.txt",
-      "/static/js/client.a17abc62.js.LICENSE.txt"
-    ],
     "svg": [
-      "/static/media/react.be7b83d4.svg"
+      "http://localhost:3001/static/media/react.be7b83d4.svg"
     ]
   }
 }
