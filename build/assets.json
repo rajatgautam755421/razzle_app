@@ -1,7 +1,29 @@
 {
+  "client": {
+    "css": [
+      "/static/css/client.7e611904.css"
+    ],
+    "js": [
+      "/static/js/client.7f2cbb32.js"
+    ],
+    "map": [
+      "/static/css/client.7e611904.css.map",
+      "/static/js/client.7f2cbb32.js.map"
+    ],
+    "chunks": [
+      0
+    ]
+  },
   "noentry": {
+    "ico": [
+      "/favicon.ico"
+    ],
+    "txt": [
+      "/robots.txt",
+      "/static/js/client.7f2cbb32.js.LICENSE.txt"
+    ],
     "svg": [
-      "http://localhost:3001/static/media/react.be7b83d4.svg"
+      "/static/media/react.be7b83d4.svg"
     ]
   }
 }
