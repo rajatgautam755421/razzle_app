@@ -23,7 +23,7 @@ module.exports =
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "52585e6f710a35fc969e";
+/******/ 	var hotCurrentHash = "58072c7d90847327af07";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -1410,14 +1410,14 @@ class Home extends react__WEBPACK_IMPORTED_MODULE_0___default.a.Component {
         lineNumber: 11,
         columnNumber: 11
       }
-    }), __jsx("h2", {
+    }), __jsx("h1", {
       __self: this,
       __source: {
         fileName: _jsxFileName,
         lineNumber: 12,
         columnNumber: 11
       }
-    }, "Welcome to Razzle")), __jsx("p", {
+    }, "Rajat Gautam")), __jsx("p", {
       className: "Home-intro",
       __self: this,
       __source: {
